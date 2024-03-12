@@ -1,0 +1,20 @@
+* {
+    margin: 20px;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+}
+ul{
+    color: cornflowerblue;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+p{
+    color: darkblue;
+}
+body {
+    font-family: "American Typewriter", serif;
+}
